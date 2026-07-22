@@ -1,0 +1,8 @@
+{
+  "refresh_interval": 1.0,
+  "cpu_threshold": 80,
+  "ram_threshold": 90,
+  "disk_threshold": 85,
+  "alerts_enabled": true,
+  "theme": "default"
+}
