@@ -4,5 +4,7 @@
   "ram_threshold": 90,
   "disk_threshold": 85,
   "alerts_enabled": true,
-  "theme": "default"
+  "theme": "default",
+  "network_interfaces": ["eth0", "wlan0", "en0"],
+  "log_file": "snake_monitor.log"
 }
